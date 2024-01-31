@@ -10,6 +10,7 @@ namespace teszteles
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
